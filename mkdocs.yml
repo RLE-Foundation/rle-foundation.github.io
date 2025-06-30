@@ -3,8 +3,8 @@ site_url: https://rlevolution.org
 copyright: Copyright &copy; 2025 Reinforcement Learning Evolution Foundation
 theme:
   name: material
-  logo: assets/images/logo_horizontal.svg
-  favicon: assets/images/rllte-favicon.png
+  logo: assets/images/horizontal_logo.svg
+  favicon: assets/images/favicon.svg
   palette:
     - scheme: white
       primary: white
