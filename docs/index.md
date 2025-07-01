@@ -9,7 +9,7 @@ hide:
     <a href="https://example.com" class="card-link">
         <div class="card">
             <div class="card-image">
-                <img src="assets/images/plasticity.png" alt="image">
+                <img src="assets/images/plasticity.PNG" alt="image">
             </div>
             <div class="card-text">
                 <h2 class="card-title">[New] Plasticine</h2>
